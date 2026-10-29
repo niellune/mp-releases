@@ -18,9 +18,10 @@ Each release lists what changed and has `SHA256SUMS.txt` to check your downloads
 
 ### macOS (Apple silicon only)
 
-1. Unzip `mp-<version>-macos-arm64.zip`.
-2. Open `MP.app`. It is signed and notarized, so it opens normally.
-3. Settings, the server list and your login live in `~/Library/Application Support/MP`.
+1. Open `mp-<version>-macos-arm64.dmg`.
+2. Drag `MP` onto `Applications`, then open it from Applications. It is signed and notarized, so it opens normally.
+3. Eject the `MP` disk.
+4. Settings, the server list and your login live in `~/Library/Application Support/MP`.
 
 ### Meta Quest (experimental)
 
